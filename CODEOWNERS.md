@@ -1,2 +1,2 @@
-Sort/   @dschandrasekara
+Sorts/   @dschandrasekara
 Arrays/   @liorbentov
