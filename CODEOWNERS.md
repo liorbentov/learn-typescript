@@ -1,2 +1,2 @@
-Sorts/   @dschandrasekara
-Arrays/   @liorbentov
+/Sorts/   @dschandrasekara
+/Arrays/   @liorbentov
